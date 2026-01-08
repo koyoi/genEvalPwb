@@ -30,9 +30,7 @@ PCA9306にはパッケージ違いがあるので、好きなのを使ってく�
 ![alt text](pca9306-b.PNG) 
 
 ## 基板修正が必要です!
-※使った9306だけ。　Vref2を間違えました。
+Vref2を間違えました。使った9306に応じて。　
 ![alt text](pca9306_mod_f.PNG) 
 ![alt text](pca9306_mod.PNG)
-
-![alt text](image1.PNG) 
 
